@@ -1,0 +1,7 @@
+[user]
+name = James Marble
+email = james.marble@lldallas.us
+[pull]
+	ff = only
+[init]
+	defaultBranch = main
