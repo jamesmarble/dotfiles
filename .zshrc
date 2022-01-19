@@ -6,3 +6,7 @@ test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell
 
 setopt HIST_IGNORE_SPACE
 
+alias ls='lsd'
+alias l='lsd --almost-all --long'
+alias lt='lsd --tree --depth=2'
+
